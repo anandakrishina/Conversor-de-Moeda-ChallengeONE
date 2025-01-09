@@ -16,9 +16,7 @@ O programa é interativo, permitindo ao usuário:
 - **Interação com o Usuário**: Menu textual no console para selecionar opções e inserir valores.
 - **Consumo de API**: Integração com a API [ExchangeRate API](exchangerate-api.com), que fornecerá cotações atualizadas.
 - **Desserialização de JSON**: Conversão da resposta JSON da API para objetos Java, utilizando a biblioteca GSON.
-- **Conversões Disponíveis**:
-  - Dólar (USD) ↔ Real (BRL)
-  - Euro (EUR) ↔ Real (BRL)
+
 
 ## 🚀 Tecnologias Utilizadas
 - **Java 17**
